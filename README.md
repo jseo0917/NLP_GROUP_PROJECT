@@ -25,6 +25,6 @@ Summerize.ipynb contains the best result.
 
 1. Download twcs.csv file from https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter and put the file to your Google Drive
 2. Download JSON files from https://github.com/guyfe/Tweetsumm/tree/main/tweet_sum_data_files and upload the files to Google Drive/content
-3. Run the script
+3. Run the summerize.ipynb on Google Colab using GPU
 
 Reference: https://github.com/guyfe/Tweetsumm
