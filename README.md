@@ -7,6 +7,8 @@ Dialog summarization is a popular NLP topic. Especially for customer service, ag
 ## Datasets 
 A Dialog Summarization Dataset for Customer Service (TweetSum)
 
+![alt text](https://i.imgur.com/nTv3Iuu.png)
+
 ## Baseline models 
 Bart-large-Samsum, Cnn-12-6-samsum
 
