@@ -9,14 +9,22 @@ A Dialog Summarization Dataset for Customer Service (TweetSum)
 
 ![alt text](https://i.imgur.com/nTv3Iuu.png)
 
+3 JSON Files from https://github.com/guyfe/Tweetsumm/tree/main/tweet_sum_data_files
+
 ## Baseline models 
 Bart-large-Samsum, Cnn-12-6-samsum
 
 ## Evaluation Metrics
 Rouge 1 and 2
 
-## File Description
+## Results
 
+## How to run ipynb file
 
+Summerize.ipynb contains the best result. 
+
+1. Download twcs.csv file from https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter and put the file to your Google Drive
+2. Download JSON files from https://github.com/guyfe/Tweetsumm/tree/main/tweet_sum_data_files and upload the files to Google Drive/content
+3. Run the script
 
 Reference: https://github.com/guyfe/Tweetsumm
