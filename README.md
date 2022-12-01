@@ -1,4 +1,4 @@
-# NLP_GROUP_PROJECT
+# Dialog Summarization for Customer Service via Chat
 
 Team members: Nahyun Kwon, Ali Furkan Budak, Jung Hoon Seo, Sahithi Ravipati, Nathan McClaran
 
