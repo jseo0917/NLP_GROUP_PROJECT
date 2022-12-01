@@ -18,7 +18,7 @@ Bart-large-Samsum, Cnn-12-6-samsum
 Rouge 1 and 2
 
 ## Results
-![alt text]<img src=https://raw.githubusercontent.com/jseo0917/imageFiles/main/Screen%20Shot%202022-11-30%20at%206.00.13%20PM.png width="500" height="450">
+![alt text]<img src=https://raw.githubusercontent.com/jseo0917/imageFiles/main/Screen%20Shot%202022-11-30%20at%206.00.13%20PM.png width="450" height="500">
 
 ## How to run ipynb file
 
