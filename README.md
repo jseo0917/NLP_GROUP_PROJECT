@@ -18,13 +18,15 @@ Bart-large-Samsum, Cnn-12-6-samsum
 Rouge 1 and 2
 
 ## Results
-Bart-large-Samsum
+### Bart-large-Samsum
+
 <img src=https://raw.githubusercontent.com/jseo0917/imageFiles/main/Screen%20Shot%202022-11-30%20at%207.24.32%20PM.png width="600" height="300">
 
 Rouge1 F1 Score: 0.4461
 Rouge2 F1 Score: 0.2106
 
-Cnn-12-6-Samsum
+### Cnn-12-6-Samsum
+
 <img src=https://raw.githubusercontent.com/jseo0917/imageFiles/main/Screen%20Shot%202022-11-30%20at%206.00.13%20PM.png width="600" height="300">
 
 Rouge1 F1 Score: 0.4684
