@@ -39,4 +39,7 @@ Summerize.ipynb contains the best result.
 2. Download JSON files from https://github.com/guyfe/Tweetsumm/tree/main/tweet_sum_data_files and upload the files to Google Drive/content
 3. Run the [summerize.ipynb](summerize.ipynb) on Google Colab using GPU
 
+[Fine-tuned bart model](https://drive.google.com/file/d/1KziQecxDwfr07QEXGngdJMvQqkP5RYZT/view?usp=sharing)
+
+
 Reference: https://github.com/guyfe/Tweetsumm
