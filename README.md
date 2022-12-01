@@ -22,14 +22,14 @@ Rouge 1 and 2
 
 <img src=https://raw.githubusercontent.com/jseo0917/imageFiles/main/Screen%20Shot%202022-11-30%20at%207.24.32%20PM.png width="600" height="300">
 
-Rouge1 F1 Score: 0.4461
+Rouge1 F1 Score: 0.4461<br>
 Rouge2 F1 Score: 0.2106
 
 ### Cnn-12-6-Samsum
 
 <img src=https://raw.githubusercontent.com/jseo0917/imageFiles/main/Screen%20Shot%202022-11-30%20at%206.00.13%20PM.png width="600" height="300">
 
-Rouge1 F1 Score: 0.4684
+Rouge1 F1 Score: 0.4684<br>
 Rouge2 F1 Score: 0.2176
 ## How to run ipynb file
 
