@@ -7,7 +7,7 @@ Dialog summarization is a popular NLP topic. Especially for customer service, ag
 ## Datasets 
 A Dialog Summarization Dataset for Customer Service (TweetSum)
 
-![alt text](https://i.imgur.com/nTv3Iuu.png)
+![alt text](https://i.imgur.com/nTv3Iuu.png =250x250)
 
 3 JSON Files from https://github.com/guyfe/Tweetsumm/tree/main/tweet_sum_data_files
 
@@ -18,7 +18,7 @@ Bart-large-Samsum, Cnn-12-6-samsum
 Rouge 1 and 2
 
 ## Results
-![alt text](https://raw.githubusercontent.com/jseo0917/imageFiles/main/Screen%20Shot%202022-11-30%20at%206.00.13%20PM.png)
+![alt text](https://raw.githubusercontent.com/jseo0917/imageFiles/main/Screen%20Shot%202022-11-30%20at%206.00.13%20PM.png =250x250)
 
 ## How to run ipynb file
 
