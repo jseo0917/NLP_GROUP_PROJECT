@@ -18,7 +18,9 @@ Bart-large-Samsum, Cnn-12-6-samsum
 Rouge 1 and 2
 
 ## Results
-1[alt text]([[https://github.com/jseo0917/imageFiles/blob/main/Screen%20Shot%202022-11-30%20at%206.00.13%20PM.png])](https://github.com/jseo0917/imageFiles/blob/main/Screen%20Shot%202022-11-30%20at%206.00.13%20PM.png?raw=true))
+1[alt text](https://github.com/jseo0917/imageFiles/blob/main/Screen%20Shot%202022-11-30%20at%206.00.13%20PM.png?raw=true)
+
+
 ## How to run ipynb file
 
 Summerize.ipynb contains the best result. 
