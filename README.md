@@ -22,8 +22,8 @@ Rouge 1 and 2
 
 <img src=https://raw.githubusercontent.com/jseo0917/imageFiles/main/Screen%20Shot%202022-11-30%20at%207.24.32%20PM.png width="600" height="300">
 
-Rouge1 F1 Score: 0.4461<br>
-Rouge2 F1 Score: 0.2106
+Rouge1 F1 Score: 0.4732<br>
+Rouge2 F1 Score: 0.2259
 
 ### Cnn-12-6-Samsum
 
